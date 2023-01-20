@@ -1,0 +1,200 @@
+/* global styles */
+
+body {
+    font-family: 'Montserrat';  font-size: 3rem;  line-height: 1.5;  font-weight: 900;
+}
+
+.gray {
+    color: rgb(236, 226, 226);
+}
+
+h1 {
+    font-family: 'Montserrat';  font-size: 3.5rem;  line-height: 1.5;  font-weight: 900;
+}
+
+/* Fonts */
+
+.ff-Montserrat {
+    font-family: Montserrat;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-900 {
+    font-weight: 900;
+}
+
+.fs-3 {
+    font-size: 3rem;
+}
+
+
+i {
+    padding-right: 5px;
+}
+
+/* Navigation Styles */
+
+
+.nav-links-custom {
+    margin: 0 1.3rem; 
+    padding: 0 1rem;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.navbar-brand {
+    font-family: Ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+/* Heading Styles */
+
+.title-head {
+    padding-bottom: 8%;
+}
+
+.top-text {
+    z-index: 2;
+}
+
+.download-button {
+    margin: 5% 1% 5% 0;
+}
+
+.iphone {
+    width: 20%;
+    right: 30%;
+    transform: rotate(25deg);
+    position: absolute;
+}
+
+
+#features {
+    position: relative;
+    background-color: #fff;
+}
+
+.spacer {
+    margin-bottom: 2rem;
+}
+
+/* Features */
+
+.features-row {
+    padding: 5rem;
+}
+
+.feature-col {
+    padding: 50px 50px;
+}
+
+.icon-features {
+    color: #ef8172;
+}
+
+.icon-features:hover {
+    color: #ff4c68;
+}
+
+.features-h3 {
+    padding: 20px;
+    font-weight: bold;
+}
+
+.features-p {
+    font-size: 1.8rem;
+    font-weight: 300;
+}
+
+/* Testimonials */
+
+#testimonials {
+    background-color: #ef8172;
+    text-align: center;
+    font-family: 'Montserrat';
+    color: #fff;
+    padding-bottom: 10%;
+}
+
+.testimonials-h2 {
+    margin: 7% 20% 0;
+    padding: 2% 0;
+}
+
+.testimonials-image {
+    border-radius: 100%;
+    width: 7%;
+}
+
+.testimonials-em {
+    font-size: 1rem;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 11%;
+}
+
+.press-image {
+    width: 11%;
+}
+
+/* Pricing */
+
+#pricing {
+    text-align: center;
+    padding: 5%;
+}
+
+.pricing-heading {
+    padding: 1%;
+}
+
+.pricing-sub-text {
+    font-size: 1.8rem;
+    padding: 1% 0 2%;
+}
+
+.card {
+    margin: 1%;
+}
+
+.card-header {
+    font-size: 2rem;
+}
+
+.card-price {
+    padding-bottom: 3%;
+}
+
+.card-description {
+    font-size: 1.5rem;
+}
+
+/* Call to action */
+
+#cta {
+    text-align: center;
+}
+
+.cta-main {
+    padding: 8% 0;
+}
+
+.copyright-text {
+    font-size: 1rem;
+}
+
